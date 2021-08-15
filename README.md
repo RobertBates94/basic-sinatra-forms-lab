@@ -29,7 +29,7 @@ display the data from the form after it has been submitted by the user.
 
 It should look something like this:
 
-![form for basketball team](https://curriculum-content.s3.amazonaws.com/web-development/Sinatra/basketball-form.png)
+![form for basketball team](https://curricul-um-content.s3.amazonaws.com/web-development/Sinatra/basketball-form.png)
 
 When creating your form, your "Submit" button will need to be identified by an
 `id` attribute with value of "Submit". We're telling this to you now
